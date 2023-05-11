@@ -1,2 +1,2 @@
-limits-service.minimum=10
-limits-service.maximum=1000
+property-file.name=Product
+property-file.description=Product description 
